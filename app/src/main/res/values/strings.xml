@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Demos</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Workout</string>
+    <string name="slide_1_desc">It\'s a Great day for working out</string>
+
+    <string name="slide_2_title">Schedule</string>
+    <string name="slide_2_desc">The key is not to prioritize what\’s on your schedule, but to schedule your priorities.</string>
+
+    <string name="slide_3_title">Effective Diet</string>
+    <string name="slide_3_desc">Proper Diet do 70% work</string>
+    <string name="purpose">Demo Purpose App</string>
+
+</resources>

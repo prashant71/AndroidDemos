@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\robot.png",
+        "source": "D:\\testworkspace\\AndroidDemos\\app\\src\\main\\res\\mipmap-hdpi\\robot.png"
+    },
+    {
+        "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\testworkspace\\AndroidDemos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

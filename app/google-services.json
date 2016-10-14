@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849234084324",
+    "firebase_url": "https://gcm-test-3b04f.firebaseio.com",
+    "project_id": "gcm-test-3b04f",
+    "storage_bucket": "gcm-test-3b04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849234084324:android:74be8da3534f170c",
+        "android_client_info": {
+          "package_name": "com.android.demo.prashant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849234084324-asu0n74fdpnij9do70bq4ijj6fuj9sg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YqpyM6KHP5MxYMIqAbbnc5vNoZpepNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
