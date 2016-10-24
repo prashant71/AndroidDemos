@@ -14,7 +14,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.demo.prashant.camera.CameraActivity;
-import com.android.demo.prashant.encryption.SecurityActivity;
 import com.android.demo.prashant.gcm.GCMActivity;
 import com.android.demo.prashant.recyclerview.adaptor.NotificationClickListener;
 import com.android.demo.prashant.recyclerview.MyRecyclerView;
@@ -36,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
         demoList.add("RecyclerView and CardView Demo");
         demoList.add("Share Image/Video Demo");
         demoList.add("Camera2 API Demo");
-        demoList.add("Encryption Decryption Demo");
     }
 
     @Override
@@ -105,9 +103,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case 5:
                 /** Glide Image Download Demo */
-                Intent intent5 = new Intent(this, SecurityActivity.class);
-                this.startActivity(intent5);
-                break;
+//                Intent intent5 = new Intent(this, .class);
+//                this.startActivity(intent5);
+//                break;
         }
 
 
