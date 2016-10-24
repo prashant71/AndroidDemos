@@ -76,6 +76,7 @@
         <activity android:name="com.android.demo.prashant.gcm.GCMActivity" />
         <activity android:name="com.android.demo.prashant.camera.CameraActivity" />
         <activity android:name="com.android.demo.prashant.share.ShareActivity" />
+        <activity android:name="com.android.demo.prashant.encryption.SecurityActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

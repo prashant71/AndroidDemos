@@ -63,7 +63,8 @@
         <activity android:name=".recyclerview.MyRecyclerView" />
         <activity android:name=".gcm.GCMActivity" />
         <activity android:name=".camera.CameraActivity" />
-        <activity android:name=".share.ShareActivity"></activity>
+        <activity android:name=".share.ShareActivity" />
+        <activity android:name=".encryption.SecurityActivity"></activity>
     </application>
 
 </manifest>

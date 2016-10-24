@@ -16,12 +16,12 @@
         "source": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider1.xml",
-        "source": "D:\\testworkspace\\AndroidDemos\\app\\src\\main\\res\\layout\\slider1.xml"
-    },
-    {
         "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider1.xml",
+        "source": "D:\\testworkspace\\AndroidDemos\\app\\src\\main\\res\\layout\\slider1.xml"
     },
     {
         "merged": "D:\\testworkspace\\AndroidDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:2:1-69:12
+ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:2:1-70:12
 	package
 		ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml
@@ -76,7 +76,7 @@ ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:17:5-6
 	android:name
 		ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:17:19-63
 application
-ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:19:5-67:19
+ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:19:5-68:19
 MERGED from [com.google.firebase:firebase-core:9.0.0] D:\testworkspace\AndroidDemos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] D:\testworkspace\AndroidDemos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:26:5-41:19
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] D:\testworkspace\AndroidDemos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
@@ -211,9 +211,13 @@ ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:65:9-5
 	android:name
 		ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:65:19-56
 activity#com.android.demo.prashant.share.ShareActivity
-ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:66:9-66
+ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:66:9-57
 	android:name
 		ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:66:19-54
+activity#com.android.demo.prashant.encryption.SecurityActivity
+ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:67:9-74
+	android:name
+		ADDED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml:67:19-62
 uses-sdk
 INJECTED from D:\testworkspace\AndroidDemos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.firebase:firebase-core:9.0.0] D:\testworkspace\AndroidDemos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.0\AndroidManifest.xml:4:5-42
